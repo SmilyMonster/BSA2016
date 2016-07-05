@@ -2,3 +2,7 @@ body {
 	background-color: #cccccc;
 	font-size: 2rem;
 }
+nav {
+	background-color: #fff;
+	width: 90%; 
+}
