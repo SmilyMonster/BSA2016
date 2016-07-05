@@ -1,3 +1,4 @@
 body {
 	background-color: #cccccc;
+	font-size: 2rem;
 }
